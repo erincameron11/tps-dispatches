@@ -16,3 +16,6 @@ Using Python and geospatial visualization techniques, I dive into the data to un
 The dataset consists of ambulance dispatch records, each containing details such as general location, timestamp, and dispatch priority. The goal is to map these locations and examine patterns across different time periods.
 
 ### Data Visualization
+
+
+### Summary of Insights:
