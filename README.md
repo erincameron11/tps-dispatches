@@ -52,17 +52,29 @@ Statistics:
     Alpha3           13                  272
 ``` 
 
+### Key Insights & Investigational Findings
+
+This analysis uncovers several important insights into Toronto’s emergency medical service demands:
+
+    High-Demand Areas: Certain FSAs consistently demonstrate high dispatch volumes, indicating "hotspots" for EMS demand. These areas should be prioritized for resource allocation, such as increasing ambulance availability or deploying community paramedicine initiatives to help reduce call volume.
+
+    Peak Hours of Demand: Dispatch frequency increases during specific times of the day, notably around 12:00 PM, likely aligning with work and commute hours. This suggests a need for EMS to be particularly responsive during mid-day hours when demand is highest.
+
+    Seasonal Trends: Higher call volumes in the summer months, particularly July, could be indicative of environmental factors such as warm weather, increased outdoor activity, or tourism-related incidents. Understanding these seasonal patterns can help plan for more efficient seasonal staffing.
+
+    Priority Levels: The dataset highlights that the majority of EMS calls are classified under the "Delta" Priority, followed by "Bravo" and "Alpha". This information could inform the type of training or resources required by paramedics for in-field assessments.
+
+    Time Between Dispatches: The average dispatch interval of 2.57 minutes suggests relatively high call volumes. To keep up with this demand, there is a need for more paramedics, dispatchers, and resources to ensure timely response times and avoid system strain.
+
 ### Conclusion
-This analysis provides valuable insights into Toronto’s EMS demand, highlighting opportunities for optimizing resource allocation. Future studies could incorporate more recent data, weather conditions, road conditions, or hospital capacities to refine emergency response strategies further. This investigation highlights the need for further data analysis on more robust datasets to garner insights into operational bottlenecks. 
 
-Investigational Insights:
-* **High-Demand Areas**: Certain FSAs consistently show high dispatch volumes, indicating potential hotspots for EMS demand.
-* **Peak Demand Hours**: Dispatch frequency spikes during specific times of the day, likely aligning with work hours, commute hours, and nightlife activity.
-* **Seasonal Trends**: Higher call volumes appear to occur in certain months, which suggest links to environmental factors such as good weather. The highest dispatch volume month was July.
-* **Priority Analysis**: The dataset reveals the most common emergency priority levels requiring ambulance response.
-* **Average Dispatch Intervals**: Understanding the average time between dispatches helps gauge system load and efficiency.
+This analysis provides a deeper understanding of Toronto’s EMS landscape, offering actionable insights for improving paramedic services and optimizing resource allocation. The patterns identified in terms of location, time, and incident types can help to inform strategies for better response times, more effective deployment, and improved community health outcomes.
 
-### Next Steps
-* Expand the analysis to include more years of data
-* Investigate response times and patient outcomes
-* Explore the impact of city events on EMS demand
+**Next Steps**
+This investigation highlights the need for further data analysis on more robust datasets to garner insights into operational bottlenecks. 
+
+    Expand the Analysis: Extend the investigation to include more recent years of data, allowing for the identification of emerging trends and patterns over time.
+    Investigate Response Times & Patient Outcomes: Analyze response times and correlate them with patient outcomes to assess the effectiveness of paramedic interventions.
+    Impact of Special Events: Examine the influence of major city events (e.g., concerts, festivals, protests) on EMS demand to ensure adequate resource allocation during high-impact times.
+    Invest in Community Paramedicine: For FSAs that receive a high volume of lower-acuity calls, consider expanding community paramedicine programs. These programs can address non-emergency healthcare needs, reduce hospital strain, and free up resources for more critical emergencies.
+    Improve Staffing Based on Time-of-Day and Seasonal Trends: Adjust staffing models to better reflect periods of high demand, such as mid-day and summer months. Consider deploying additional resources in areas with consistently high dispatch rates.
