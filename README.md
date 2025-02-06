@@ -4,6 +4,7 @@ A data visualization of Toronto Paramedic Services dispatches from 2010, compare
 
 *Erin Cameron*
 
+
 ---
 
 ### Introduction
